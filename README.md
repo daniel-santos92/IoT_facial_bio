@@ -119,7 +119,7 @@ python main.py
 
 ## **Estrutura do Projeto**
 
-
+```
 .
 ├── firebase/
 │   ├── firebase_utils.py  # Funções para interação com o Firebase
